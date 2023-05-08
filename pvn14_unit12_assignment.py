@@ -4,7 +4,6 @@ import datetime
 
 def main():
     #print the store name 
-    print('\nPariksheet Naik, Section 03, Computer & Programming I, 04/27/2023, Unit 12 Assignment, pvn14@scarletmail.rutgers.edu')
 
     print("\nGreetings from Parik's Plate")
     name = input('\nEnter name for Order: ')
@@ -164,10 +163,3 @@ def get_softdrink(soft_drink):
 
 
 main()
-
-#Pariksheet Naik
-#21:198:101:03
-#Computers & Programming I
-#04/27/2023
-#Unit 12 Assignment
-#pvn14@scarletmail.rutgers.edu
